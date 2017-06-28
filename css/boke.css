@@ -1,0 +1,76 @@
+.bg{
+	background: url(../img/bg4.jpg) no-repeat center center;
+	background-size: 100% 100%;
+	padding: 180px;
+}
+#cen{
+	text-align: center;
+}
+.bg2{
+	background: #ccc;
+}
+
+#sub{
+	width: 500px;
+	margin: 0 auto;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #ddd;
+    margin-right: 40%;
+}
+.bg2{
+	margin-top: -18px;
+}
+.bg2 h2{
+	color: #000;
+	text-align: center;
+	
+}
+.bg2 p span{
+	color: yellowgreen;
+	
+}
+.bg2 p{
+	text-align: center;
+	
+}
+#le{
+	background: #fff;
+	margin-top: 50px;
+}
+#rt{
+	background: #fff;
+	margin-top: 50px;
+}
+#rt b{
+	line-height: 30px;
+}
+#rt b span{
+	color: #255625;
+}
+.footer{
+	background: #000;
+}
+#gt{
+	padding: 40px;
+}
+#gt a{
+	padding: 2px 7px;
+	border: 1px solid red;
+	color: #fff;
+	line-height: 30px;
+	text-decoration: none;
+}
+#gt a:hover{
+	color: #255625;
+}
+#ou{
+	padding: 40px;
+}
+#bn{
+	padding: 40px;
+}
+#bn p{
+	line-height: 30px;
+}
